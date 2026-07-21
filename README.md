@@ -15,10 +15,11 @@ A simple and responsive web application that fetches GitHub user information usi
 
 ## 🛠️ Technologies Used
 
-- HTML5
-- CSS3
-- JavaScript (ES6)
-- GitHub Users API
+![HTML](https://img.shields.io/badge/HTML-5-orange)
+![CSS](https://img.shields.io/badge/CSS-3-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+![GitHub API](https://img.shields.io/badge/API-GitHub-black)
+![License](https://img.shields.io/badge/License-MIT-green)
 
 ---
 
@@ -138,13 +139,5 @@ GitHub: https://github.com/Manukonda-Teja-Harsha
 LinkedIn: https://www.linkedin.com/in/teja-harsha
 
 ---
-
-# 🌐 GitHub Users Explorer
-
-![HTML](https://img.shields.io/badge/HTML-5-orange)
-![CSS](https://img.shields.io/badge/CSS-3-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
-![GitHub API](https://img.shields.io/badge/API-GitHub-black)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 ⭐ If you found this project useful, consider giving it a star!
