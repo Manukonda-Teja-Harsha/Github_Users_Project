@@ -23,26 +23,6 @@ A simple and responsive web application that fetches GitHub user information usi
 
 ---
 
-## 📸 Preview
-
-> Add screenshots of your project here.
-
-Example:
-
-```
-images/
- ├── home.png
- └── result.png
-```
-
-```md
-![Home](images/home.png)
-
-![Result](images/result.png)
-```
-
----
-
 ## 📂 Project Structure
 
 ```
